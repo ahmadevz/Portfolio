@@ -4,7 +4,7 @@ function copyEmail() {
   copybtn.style.background = "#9B8EDE"
   copybtn.style.color = "white"
   
-  const email = "connectwithahmadshah@gmail.com";
+  const email = "myselfahmaddevz@gmail.com";
   navigator.clipboard.writeText(email)
 }
 
